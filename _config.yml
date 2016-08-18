@@ -1,6 +1,6 @@
 name: platypusvr
 favicon: null
-layout_spectrum: 0.90675
+layout_spectrum: 0.49121
 typography_spectrum: 0.4981006570160389
 title: PLATYPUS VR
 cta:
@@ -22,7 +22,7 @@ color:
     - '#56575b'
     - '#f06d97'
     - '#ababa9'
-  brandStrength: 0.7213318368885666
+  brandStrength: 0.75
   lightness: 0.6941330109257251
   saturation: 0.1875
   rhythmicContrast: 0.7666206904686987
