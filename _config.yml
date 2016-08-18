@@ -2,6 +2,7 @@ name: platypusvr
 favicon: null
 layout_spectrum: 0.40285037783905864
 typography_spectrum: 0.4981006570160389
+title: PLATYPUS VR
 cta:
   domain: null
   bucket: null
