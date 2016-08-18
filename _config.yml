@@ -1,0 +1,28 @@
+name: platypusvr
+favicon: null
+layout_spectrum: 0.40285037783905864
+typography_spectrum: 0.4981006570160389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7213318368885666
+  lightness: 0.6941330109257251
+  saturation: 0.22377826808951795
+  rhythmicContrast: 0.7666206904686987
+purpose: []
