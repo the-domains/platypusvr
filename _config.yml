@@ -24,6 +24,6 @@ color:
     - '#ababa9'
   brandStrength: 0.25
   lightness: 0.6941330109257251
-  saturation: 0.1875
-  rhythmicContrast: 0.7666206904686987
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
