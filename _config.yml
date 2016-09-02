@@ -1,20 +1,4 @@
-name: platypusvr
-favicon: null
-layout_spectrum: 0.49121
 typography_spectrum: 0.4981006570160389
-title: PLATYPUS VR
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#070709'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6941330109257251
   saturation: 0
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49121
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: platypusvr
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: PLATYPUS VR
+description: 'View, create and tell VR stories on the web'
 purpose: []
